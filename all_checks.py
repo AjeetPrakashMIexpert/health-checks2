@@ -1,2 +1,7 @@
 #this is all_checks.py
-print("this is all_checks.py in refactor  branch in the local repo health-checks2")
+def fun1():
+  print("1")
+  
+  
+def fun2():
+  print("2")
