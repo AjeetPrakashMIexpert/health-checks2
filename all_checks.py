@@ -5,3 +5,7 @@ def fun1():
   
 def fun2():
   print("2")
+  
+  
+def fun4():
+  print("4") 
