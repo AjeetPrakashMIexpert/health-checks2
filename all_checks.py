@@ -9,3 +9,7 @@ def fun2():
   
 def fun4():
   print("4") 
+
+
+def fun3():
+  print("3")
