@@ -13,3 +13,7 @@ def fun4():
 
 def fun3():
   print("3")
+  
+  
+def fun6():
+  print("6")
