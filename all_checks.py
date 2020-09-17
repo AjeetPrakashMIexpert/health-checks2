@@ -17,3 +17,7 @@ def fun3():
   
 def fun6():
   print("6")
+
+
+def fun5():
+  print("5")
