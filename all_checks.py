@@ -21,3 +21,7 @@ def fun6():
 
 def fun5():
   print("5")
+
+  
+def fun8():
+  print("8")  
