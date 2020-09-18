@@ -29,3 +29,7 @@ def fun8():
 
 def fun7():
   print("7")
+
+  
+def funz():
+  print("z")
